@@ -1,0 +1,3 @@
+class RacesController < ApplicationController 
+
+end
